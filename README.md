@@ -10,7 +10,7 @@
 
 ## 导航  
 （等价于上下左右）  
-``ctrl-`p` 前一行  
+`ctrl-p` 前一行  
 `ctrl-n` 后一行  
 `ctrl-f` 前一个字符  
 `ctrl-b` 后一个字符  
@@ -67,46 +67,46 @@
 `ctrl-K` 剪切到当前行结束  
 `alt-backspace` 或 `alt-H` 删除到当前单词开始  
 `alt-delete` 或 `alt-D` 删除到当前单词结束  
-  
+
 ### 多光标和多处选取  
 `cmd-click` 增加新光标  
 `cmd-shift-L` 将多行选取改为多行光标  
 `ctrl-shift-up`, `ctrl-shift-down` 增加上（下）一行光标  
 `cmd-D` 选取文档中和当前单词相同的下一处  
 `ctrl-cmd-G` 选取文档中所有和当前光标单词相同的位置  
-  
+
 ### 括号跳转  
 `ctrl-m` 相应括号之间，html tag之间等跳转  
 `ctrl-cmd-m` 括号(tag)之间文本选取  
 `alt-cmd-.` 关闭当前XML/HTML tag  
-  
+
 ### 编码方式  
 `ctrl-shift-U` 调出切换编码选项  
-  
+
 ## 查找和替换  
 `cmd-F` 在buffer中查找  
 `cmd-shift-f` 在整个工程中查找  
-  
+
 ## 代码片段  
 `alt-shift-S` 查看当前可用代码片段  
 > 在`~/.atom`目录下`snippets.cson`文件中存放了你定制的snippets  
-  
+
 [定制说明](https://atom.io/docs/v1.0.0/using-atom-snippets)  
-  
+
 ## 自动补全  
 `ctrl-space` 提示补全信息  
-  
+
 ## 折叠  
 `alt-cmd-[` 折叠  
 `alt-cmd-]` 展开  
 `alt-cmd-shift-{` 折叠全部  
 `alt-cmd-shift-}` 展开全部  
 `cmd-k cmd-N` 指定折叠层级 N为层级数  
-  
+
 ## 文件语法高亮  
 `ctrl-shift-L` 选择文本类型  
-  
+
 ## 使用Atom进行写作  
 `ctrl-shift-M` Markdown预览  
-可用代码片段    
-> b, legal, img, l, i, code, t, table    
+可用代码片段
+> b, legal, img, l, i, code, t, table
