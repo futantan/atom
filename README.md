@@ -110,3 +110,16 @@
 `ctrl-shift-M` Markdown预览  
 可用代码片段
 > b, legal, img, l, i, code, t, table
+
+## git操作
+`cmd-alt-Z` checkout HEAD 版本  
+`cmd-shift-B` 弹出untracked 和 modified文件列表  
+`alt-g down` `alt-g up` 在修改处跳转  
+`alt-G D` 弹出diff列表  
+`alt-G O` 在github上打开文件  
+`alt-G G` 在github上打开项目地址  
+`alt-G B` 在github上打开文件blame  
+`alt-G H` 在github上打开文件history  
+`alt-G I` 在github上打开issues  
+`alt-G R` 在github打开分支比较
+`alt-G C` 拷贝当前文件在gihub上的网址  
