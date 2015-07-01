@@ -121,5 +121,5 @@
 `alt-G B` 在github上打开文件blame  
 `alt-G H` 在github上打开文件history  
 `alt-G I` 在github上打开issues  
-`alt-G R` 在github打开分支比较
+`alt-G R` 在github打开分支比较  
 `alt-G C` 拷贝当前文件在gihub上的网址  
