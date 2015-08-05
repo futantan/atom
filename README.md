@@ -28,6 +28,23 @@
 
 `cmd-r` 在方法之间跳转
 
+## 目录树操作  
+`cmd-\` 或者 `cmd-k cmd-b` 显示(隐藏)目录树  
+`ctrl-0` 焦点切换到目录树(再按一次或者`Esc`退出目录树)  
+`a` 添加文件  
+`d` 将当前文件另存为(duplicate)  
+`i` 显示(隐藏)版本控制忽略的文件  
+`alt-right` 和 `alt-left` 展开(隐藏)所有目录  
+`ctrl-al-]` 和 `ctrl-al-[` 同上  
+`ctrl-[` 和 `ctrl-]` 展开(隐藏)当前目录  
+`ctrl-f` 和 `ctrl-b` 同上  
+`cmd-k h` 或者 `cmd-k left` 在左半视图中打开文件  
+`cmd-k j` 或者 `cmd-k down` 在下半视图中打开文件  
+`cmd-k k` 或者 `cmd-k up` 在上半视图中打开文件  
+`cmd-k l` 或者 `cmd-k right` 在右半视图中打开文件  
+`ctrl-shift-C` 复制当前文件绝对路径
+
+
 ## 书签
 `cmd-F2` 在本行增加书签  
 `F2` 跳到当前文件的下一条书签  
@@ -138,9 +155,9 @@
 [atom-ternjs](https://atom.io/packages/atom-ternjs) js代码提示很强大，高度定制化  
 [docblockr](https://atom.io/packages/docblockr) jsdoc 给js添加注释  
 [autoclose-html](https://atom.io/packages/autoclose-html) 闭合html标签  
-[color-picker](https://atom.io/packages/color-picker) 取色器 必备插件   
-[pigments](https://atom.io/packages/pigments) 颜色显示插件 必装   
-[terminal-panel](https://atom.io/packages/terminal-panel) 直接在atom里面写命令了    
-[svg-preview](https://atom.io/packages/svg-preview) svg预览   
+[color-picker](https://atom.io/packages/color-picker) 取色器 必备插件
+[pigments](https://atom.io/packages/pigments) 颜色显示插件 必装
+[terminal-panel](https://atom.io/packages/terminal-panel) 直接在atom里面写命令了
+[svg-preview](https://atom.io/packages/svg-preview) svg预览
 
 就这些了，欢迎pull更多好用的插件！
