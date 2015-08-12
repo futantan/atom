@@ -148,6 +148,7 @@
 - 美化  
 [atom-beautify](https://atom.io/packages/atom-beautify) 一键代码美化  
 [file-icons](https://atom.io/packages/file-icons) 给文件加上好看的图标  
+[atom-minimap](https://atom.io/users/atom-minimap) 方便美观的缩略滚动图
 - git  
 [atomatigit](https://atom.io/packages/atomatigit) 可视化git操作  
 - 代码提示  
