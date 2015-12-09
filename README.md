@@ -160,5 +160,7 @@
 [pigments](https://atom.io/packages/pigments) 颜色显示插件 必装  
 [terminal-panel](https://atom.io/packages/terminal-panel) 直接在atom里面写命令了  
 [svg-preview](https://atom.io/packages/svg-preview) svg预览
+- 便捷操作  
+[advanced-open-file](https://atom.io/packages/advanced-open-file) 快速打开、切换文件
 
 就这些了，欢迎pull更多好用的插件！
