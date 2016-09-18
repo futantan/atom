@@ -164,7 +164,6 @@
 [advanced-open-file](https://atom.io/packages/advanced-open-file) 快速打开、切换文件
 
 - 快速的切换这个项目
-
-[project-folder](https://atom.io/packages/project-folder)∏
+[project-folder](https://atom.io/packages/project-folder)
 
 就这些了，欢迎pull更多好用的插件！
