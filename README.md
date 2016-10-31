@@ -76,6 +76,7 @@
 `cmd-shift-D` 复制当前行到下一行  
 `cmd-K`, `cmd-U` 使当前字符大写  
 `cmd-K`, `cmd-L` 使当前字符小写  
+`cmd-shift-P` 搜索命令  
 
 ### 删除和剪切
 `ctrl-shift-K` 删除当前行  
@@ -148,9 +149,13 @@
 - 美化  
 [atom-beautify](https://atom.io/packages/atom-beautify) 一键代码美化  
 [file-icons](https://atom.io/packages/file-icons) 给文件加上好看的图标  
-[atom-minimap](https://atom.io/users/atom-minimap) 方便美观的缩略滚动图
+[atom-minimap](https://atom.io/users/atom-minimap) 方便美观的缩略滚动图  
+[pretty-json](https://atom.io/packages/pretty-json) json格式化工具  
+[activate-power-mode](https://atom.io/packages/activate-power-mode) 炫酷的打字特效
 - git  
 [atomatigit](https://atom.io/packages/atomatigit) 可视化git操作  
+[git-time-machine](https://atom.io/packages/git-time-machine) git版本对比工具，可视化选择每一个commit  
+[merge-conflicts](https://atom.io/packages/merge-conflicts) 合并冲突可视化工具
 - 代码提示  
 [emmet](https://atom.io/packages/emmet) 这个不用介绍了吧  
 [atom-ternjs](https://atom.io/packages/atom-ternjs) js代码提示很强大，高度定制化  
@@ -162,7 +167,11 @@
 [svg-preview](https://atom.io/packages/svg-preview) svg预览
 - 便捷操作  
 [advanced-open-file](https://atom.io/packages/advanced-open-file) 快速打开、切换文件  
-[project-folder](https://atom.io/packages/project-folder) 快速打开、切换项目
-
+[project-folder](https://atom.io/packages/project-folder) 快速打开、切换项目  
+[script](https://atom.io/packages/script) 立即执行当前js文件
+- 高亮  
+[language-vue](https://atom.io/packages/language-vue) vue框架代码高亮
+- 终端  
+[platformio-atom-ide-terminal](https://atom.io/packages/platformio-ide-terminal) 终端插件，支持显示、隐藏及多窗口
 
 就这些了，欢迎pull更多好用的插件！
